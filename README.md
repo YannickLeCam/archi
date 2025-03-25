@@ -1,4 +1,4 @@
-# Architechture
+# Architecture
 
 Ce dépôt contient une série de travaux pratiques (TP) axés sur l'architecture des ordinateurs et la programmation en langage C. Chaque dossier correspond à des TP spécifiques traitant de différents concepts fondamentaux autour des forks.
 
