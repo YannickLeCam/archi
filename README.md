@@ -1,12 +1,14 @@
 # Architechture
 
-Ce dépôt contient une série de travaux pratiques (TP) axés sur l'architecture des ordinateurs et la programmation en langage C. Chaque dossier correspond à un TP spécifique traitant de différents concepts fondamentaux.
+Ce dépôt contient une série de travaux pratiques (TP) axés sur l'architecture des ordinateurs et la programmation en langage C. Chaque dossier correspond à des TP spécifiques traitant de différents concepts fondamentaux autour des forks.
 
 ## Contenu du dépôt
 
 ### TP1 - Introduction à l'architecture 
 
 - Manipulation des types de données de base.
+  
+- Induction au fork.
 
 ### TP2 - Pointeurs et gestion de la mémoire
 
